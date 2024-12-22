@@ -2,8 +2,8 @@
 ## <p align="center">Your Gateway to the World of AI Tools!</p> 
 
 
-## 🎨 Image Generation
-### Online
+### 🎨 Image Generation
+#### Online
 - [**Recraft 3**](https://www.recraft.ai/):
 - [**Mistral AI with FLUX**](https://chat.mistral.ai/chat):
 - [**xAi Grok 2 Aurora**](https://x.com/i/grok?focus=1):
@@ -11,7 +11,7 @@
 - [**Ideogram 2**](https://ideogram.ai/t/explore):
 - [**MidJourney 6.1**](https://www.midjourney.com/): The famous closed-source platform for breathtaking art.
 
-### Local 
+#### Local 
 - [**Stable Diffusion 3.5 Medium**](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium): A powerful open-source model for creating stunning visuals.
 - [**Stable Diffusion 3.5 Large**](https://huggingface.co/stabilityai/stable-diffusion-3.5-large): Enhanced version for high-fidelity image generation.
 
