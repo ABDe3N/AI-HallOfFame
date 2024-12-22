@@ -95,21 +95,24 @@ https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
 
 ---
 
-## 🧠 Local Tools
+## 🧠 Tools
 
 - [**Ollama**](https://ollama.ai/): A sleek chatbot platform built for enhanced conversational experiences.
 - [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
 - [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
-
----
-
-## 🧠 Online Tools
-
 - [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
 - [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
 - [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
 - [**LM Arena**](https://lmarena.ai/): A platform to compare and test various AI chatbots for free.
 - [**WebDev Arena**](https://web.lmarena.ai/): AI Battle to build the best website.
+
+---
+
+## 👀 To Watch in 2025
+
+- [**Veo 2**](https://deepmind.google/technologies/veo/veo-2/): Google's State-of-the-art video generation model.
+
+
 
 
 ## <p align="center">⭐ Show Your Support</p>
