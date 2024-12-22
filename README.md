@@ -1,21 +1,19 @@
 # <p align="center">🌟 AI Hall of Fame 🌟</p>
 ## <p align="center">Your Gateway to the World of AI Tools!</p> 
 
-## 🧠 Local Tools
 
-- [**Ollama**](https://ollama.ai/): A sleek chatbot platform built for enhanced conversational experiences.
-- [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
-- [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
+## 🎨 Image Generation
+### Online
+- [**Recraft 3**](https://www.recraft.ai/):
+- [**Mistral AI with FLUX**](https://chat.mistral.ai/chat):
+- [**xAi Grok 2**](https://x.com/i/grok?focus=1):
+- [**Gemeni Imagen 3**](https://gemini.google.com/app):
+- [**Ideogram 2**](https://ideogram.ai/t/explore):
+- [**MidJourney 6.1**](https://www.midjourney.com/): The famous closed-source platform for breathtaking art.
 
----
-
-## 🧠 Online Tools
-
-- [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
-- [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
-- [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
-- [**LM Arena**](https://lmarena.ai/): A platform to compare and test various AI chatbots for free.
-- [**WebDev Arena**](https://web.lmarena.ai/): AI Battle to build the best website.
+### Local 
+- [**Stable Diffusion 3.5 Medium**](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium): A powerful open-source model for creating stunning visuals.
+- [**Stable Diffusion 3.5 Large**](https://huggingface.co/stabilityai/stable-diffusion-3.5-large): Enhanced version for high-fidelity image generation.
 
 ---
 
@@ -63,16 +61,6 @@ https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
 
 ---
 
-## 🎨 Image Generation
-### Open Source
-- [**Stable Diffusion 3.5 Medium**](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium): A powerful open-source model for creating stunning visuals.
-- [**Stable Diffusion 3.5 Large**](https://huggingface.co/stabilityai/stable-diffusion-3.5-large): Enhanced version for high-fidelity image generation.
-
-### Closed Source
-- [**MidJourney**](https://www.midjourney.com/): The famous closed-source platform for breathtaking art.
-- [**DALL-E 3**](https://openai.com/dall-e): OpenAI's advanced image generation tool.
-
----
 
 ## 🎥 Video Generation
 ### Open Source
@@ -106,6 +94,23 @@ https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
 - [**LM Studio**](https://lmarena.ai/): A powerful closed-source language model for professionals.
 
 ---
+
+## 🧠 Local Tools
+
+- [**Ollama**](https://ollama.ai/): A sleek chatbot platform built for enhanced conversational experiences.
+- [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
+- [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
+
+---
+
+## 🧠 Online Tools
+
+- [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
+- [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
+- [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
+- [**LM Arena**](https://lmarena.ai/): A platform to compare and test various AI chatbots for free.
+- [**WebDev Arena**](https://web.lmarena.ai/): AI Battle to build the best website.
+
 
 ## <p align="center">⭐ Show Your Support</p>
 
