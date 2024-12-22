@@ -5,21 +5,52 @@
 
 ---
 
-## 💬 Chat Bots
-### Open Source
-- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
-- [**Nexusflow Athene-V2 Chat**](https://huggingface.co/Nexusflow/Athene-V2-Chat): An open conversational agent designed for knowledge retrieval.
-- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
-- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
-- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
-- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
-- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
-- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
-- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
+## 🧠 Local Tools
 
-### Closed Source
-- [**Claudia.ai**](https://glhf.chat/chat/create): A cutting-edge chatbot platform for customized interactions.
 - [**Ollama**](https://ollama.ai/): A sleek chatbot platform built for enhanced conversational experiences.
+- [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
+- [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
+
+---
+
+## 🧠 Online Tools
+
+- [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
+- [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
+- [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
+- [**LM Arena**](https://lmarena.ai/): A platform to compare and test various AI chatbots for free.
+- [**WebDev Arena**](https://web.lmarena.ai/): AI Battle to build the best website.
+
+---
+
+## 💬 Chat Bots
+- [**Claude.ai**](https://claude.ai/new): Next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
+- [**ChatGPT**](https://chatgpt.com/): An AI-powered conversational agent developed by OpenAI, designed to assist with a variety of tasks including writing, learning, and brainstorming.
+
+- [**Google AI Studio's Gemini 2.0 Flash**](https://aistudio.google.com/app/prompts/new_chat?instructions=lmsys-1121&model=gemini-2.0-flash-thinking-exp-1219): An experimental AI model by Google for advanced conversational interactions.
+- [**Mistral AI**](https://chat.mistral.ai/chat): Le Chat is a conversational entry point to interact with the various models from Mistral AI.
+
+- [**Meta AI**](https://www.meta.ai/): Use Meta AI assistant to get things done, create AI-generated images for free, and get answers to any of your questions.
+
+
+
+
+
+- [**DeepSeek Chat**](https://chat.deepseek.com/): An AI chatbot designed for deep knowledge retrieval and conversational assistance.
+
+
+https://x.com/i/grok?focus=1
+
+
+- [**glhf**](https://glhf.chat/chat/create): A platform that can run (almost) any open-source LLM.
+
+
+
+https://huggingface.co/CohereForAI/c4ai-command-r-v01
+https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210
+https://huggingface.co/Qwen/QwQ-32B-Preview
+https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e
 
 ---
 
@@ -28,9 +59,9 @@
 - [**C4AI Command-R**](https://huggingface.co/CohereForAI/c4ai-command-r-08-2024): A research-focused AI tool for developers.
 - [**StyleTTS2**](https://github.com/yl4579/StyleTTS2): Advanced TTS for enhancing coding workflows.
 
-### Closed Source
 - [**Cursor**](https://www.cursor.com/): The ultimate AI-powered coding assistant for seamless development.
 - [**Codeium Windsurf**](https://codeium.com/windsurf): An AI assistant that integrates directly into your IDE.
+https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
 
 ---
 
@@ -77,38 +108,6 @@
 - [**LM Studio**](https://lmarena.ai/): A powerful closed-source language model for professionals.
 
 ---
-
-## 🧠 Tools
-
-### Open Source
-- [**PyTorch**](https://pytorch.org/): A leading framework for deep learning, perfect for building AI models with ease.
-- [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
-- [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
-- [**Llama.cpp**](https://github.com/ggerganov/llama.cpp): A C++ implementation of LLaMA models for local inference.
-- 
-
-### Closed Source
-- [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
-- [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
-- [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
-- [**Ollama**](https://ollama.ai/): A sleek chatbot platform built for enhanced conversational experiences.
-
-
----
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! If you'd like to add a new AI tool or update existing information, please:
-
-1. Fork the repository
-2. Create a new branch for your changes
-3. Submit a pull request with a clear description of your updates
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⭐ Show Your Support
 
