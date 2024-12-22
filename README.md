@@ -107,6 +107,6 @@ https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
 
 ---
 
-## ⭐ Show Your Support
+## <p align="center">⭐ Show Your Support</p>
 
-If you find this repository helpful, please give it a star! It helps others discover this resource.
+<p align="center">If you find this repository helpful, please give it a star! It helps others discover It.</p>
