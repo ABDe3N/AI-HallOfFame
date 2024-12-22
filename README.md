@@ -33,7 +33,9 @@
 - [**Meta AI**](https://www.meta.ai/): Use Meta AI assistant to get things done, create AI-generated images for free, and get answers to any of your questions.
 
 
-
+https://qwenlm.github.io/blog/qwq-32b-preview/
+https://qwenlm.github.io/blog/qwen2.5-coder-family/
+https://qwenlm.github.io/blog/qwen2.5/
 
 
 - [**DeepSeek Chat**](https://chat.deepseek.com/): An AI chatbot designed for deep knowledge retrieval and conversational assistance.
