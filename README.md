@@ -6,7 +6,7 @@
 ### Online
 - [**Recraft 3**](https://www.recraft.ai/):
 - [**Mistral AI with FLUX**](https://chat.mistral.ai/chat):
-- [**xAi Grok 2**](https://x.com/i/grok?focus=1):
+- [**xAi Grok 2 Aurora**](https://x.com/i/grok?focus=1):
 - [**Gemeni Imagen 3**](https://gemini.google.com/app):
 - [**Ideogram 2**](https://ideogram.ai/t/explore):
 - [**MidJourney 6.1**](https://www.midjourney.com/): The famous closed-source platform for breathtaking art.
