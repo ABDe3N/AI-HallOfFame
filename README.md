@@ -1,6 +1,7 @@
-# 🌟 AI Hall of Fame: Your Gateway to the World of AI Tools! 🌟
+# <p align="center">🌟 AI Hall of Fame 🌟</p>
+## <p align="center">Your Gateway to the World of AI Tools!</p> 
 
-Welcome to the AI Hall of Fame! This is your one-stop shop to discover and explore AI tools and platforms. Whether you're just starting or are already an AI wizard, we've got you covered. Let's make AI accessible, fun, and impactful! 🚀
+<p align="center">Welcome to the AI Hall of Fame! This is your one-stop shop to discover and explore AI tools and platforms.<br> Whether you're just starting or are already an AI wizard, we've got you covered. Let's make AI accessible, fun, and impactful! 🚀</p>
 
 ---
 
