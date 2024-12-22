@@ -1,6 +1,6 @@
 # 🌟 AI Hall of Fame: Your Gateway to the World of AI Tools! 🌟
 
-Welcome to the AI Hall of Fame! This is your one-stop shop to discover, explore, and master AI tools and platforms. Whether you're just starting or are already an AI wizard, we've got you covered. Let's make AI accessible, fun, and impactful! 🚀
+Welcome to the AI Hall of Fame! This is your one-stop shop to discover and explore AI tools and platforms. Whether you're just starting or are already an AI wizard, we've got you covered. Let's make AI accessible, fun, and impactful! 🚀
 
 ---
 
@@ -8,6 +8,13 @@ Welcome to the AI Hall of Fame! This is your one-stop shop to discover, explore,
 ### Open Source
 - [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
 - [**Nexusflow Athene-V2 Chat**](https://huggingface.co/Nexusflow/Athene-V2-Chat): An open conversational agent designed for knowledge retrieval.
+- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
+- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
+- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
+- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
+- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
+- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
+- [**Qwen2.5-72B-Instruct**](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): A large and capable instruction-tuned chatbot.
 
 ### Closed Source
 - [**Claudia.ai**](https://glhf.chat/chat/create): A cutting-edge chatbot platform for customized interactions.
@@ -77,11 +84,13 @@ Welcome to the AI Hall of Fame! This is your one-stop shop to discover, explore,
 - [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
 - [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
 - [**Llama.cpp**](https://github.com/ggerganov/llama.cpp): A C++ implementation of LLaMA models for local inference.
+- 
 
 ### Closed Source
 - [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
 - [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
 - [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
+- [**Ollama**](https://ollama.ai/): A sleek chatbot platform built for enhanced conversational experiences.
 
 
 ---
