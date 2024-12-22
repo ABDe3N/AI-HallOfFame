@@ -1,8 +1,6 @@
 # <p align="center">🌟 AI Hall of Fame 🌟</p>
 ## <p align="center">Your Gateway to the World of AI Tools!</p> 
 
----
-
 ## 🧠 Local Tools
 
 - [**Ollama**](https://ollama.ai/): A sleek chatbot platform built for enhanced conversational experiences.
