@@ -105,6 +105,49 @@
 - [**LM Studio**](https://lmstudio.ai/): 
 - [**Anything LLM**](https://anythingllm.com/):
 
+---
+
+## 🖥️ Coding Assistants
+### IDEs
+- [**Windsurf**](https://codeium.com/windsurf): An AI assistant that integrates directly into your IDE.
+- [**Cursor**](https://www.cursor.com/): The ultimate AI-powered coding assistant for seamless development.
+
+### VSCode Extentions
+- [**Cline**](https://github.com/cline/cline?tab=readme-ov-file): AI-driven audio creation for immersive experiences.
+- [**Kodu AI**](https://www.kodu.ai/): AI-driven audio creation for immersive experiences.
+
+### Online Models
+
+### Local Models
+
+---
+
+## ⚙️ Cool Tools
+- [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
+- [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
+
+---
+## 🌐 Cool Website
+- [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
+- [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
+- [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
+- [**LM Arena**](https://lmarena.ai/): A platform to compare and test various AI chatbots for free.
+- [**WebDev Arena**](https://web.lmarena.ai/): AI Battle to build the best website.
+
+---
+
+## 👀 To Watch in 2025
+
+- [**DeepMind VEO 2**](https://deepmind.google/technologies/veo/veo-2/) ❓: Most Anticipated in 2025.
+
+
+
+## <p align="center">⭐ Show Your Support ⭐</p>
+
+<p align="center">If you find this repository helpful, please give it a star! It helps others discover It.</p>
+
+
+
 
 https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
 https://huggingface.co/CohereForAI/c4ai-command-r-v01
@@ -125,43 +168,3 @@ https://ollama.com/library/command-r
 https://ollama.com/library/llava
 https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e
 
----
-
-## 🖥️ Coding Assistants
-### IDEs
-- [**Windsurf**](https://codeium.com/windsurf): An AI assistant that integrates directly into your IDE.
-- [**Cursor**](https://www.cursor.com/): The ultimate AI-powered coding assistant for seamless development.
-
-### VSCode Extentions
-- [**Cline**](https://github.com/cline/cline?tab=readme-ov-file): AI-driven audio creation for immersive experiences.
-- [**Kodu AI**](https://www.kodu.ai/): AI-driven audio creation for immersive experiences.
-
-### Online Models
-
-### Local Models
-
----
-
-### ⚙️ Awesome Tools
-- [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
-- [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
-
----
-## 🌐 Cool Website
-- [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
-- [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
-- [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
-- [**LM Arena**](https://lmarena.ai/): A platform to compare and test various AI chatbots for free.
-- [**WebDev Arena**](https://web.lmarena.ai/): AI Battle to build the best website.
-
----
-
-## 👀 To Watch in 2025
-
-- [**DeepMind VEO 2**](https://deepmind.google/technologies/veo/veo-2/) ❓: Most Anticipated in 2025.
-
-
-
-## <p align="center">⭐ Show Your Support</p>
-
-<p align="center">If you find this repository helpful, please give it a star! It helps others discover It.</p>
