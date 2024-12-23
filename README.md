@@ -14,8 +14,7 @@
 - [**Ideogram 2**](https://ideogram.ai/t/explore) 🎁💰:
 - [**MidJourney 6.1**](https://www.midjourney.com/) 💰: The famous closed-source platform for breathtaking art.
 
-### Local
-#### Base Models
+### Local Base Models
 - [**FLUX.1 Dev**](https://huggingface.co/black-forest-labs/FLUX.1-dev) 🎁:
 - [**FLUX.1 Dev (Quantized)**](https://huggingface.co/city96/FLUX.1-dev-gguf) 🎁:
 - [**FLUX.1 Schnell**](https://huggingface.co/black-forest-labs/FLUX.1-schnell) 🎁:
@@ -25,20 +24,20 @@
 - [**Stable Diffusion 3.5 Medium**](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium) 🎁:
 - [**Stable Diffusion 3.5 Medium (Quantized)**](https://huggingface.co/city96/stable-diffusion-3.5-medium-gguf) 🎁:
   
-#### Fine-Tuned Models
+### Local Fine-Tuned Models
 - [**FLUX.1 Dev | PixelWave_03**](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-dev_03) 🎁:
 - [**FLUX.1 Schnell | PixelWave_03**](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_03) 🎁:
 - [**FLUX.1 Schnell | Shuttle 3.1 Aesthetic**](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic) 🎁:
 - [**Stable Diffusion XL | Juggernaut-XI V11**](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) 🎁:
 - [**Stable Diffusion XL | RealVisXL V5.0**](https://huggingface.co/SG161222/RealVisXL_V5.0) 🎁:
 
-#### Addons
+### Addons
 - [**FLUX.1 Dev | Fill**](https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev) 🎁:
 - [**FLUX.1 Dev | Redux**](https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev) 🎁:
 - [**FLUX.1 Dev | ControlNet Union Pro**](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) 🎁:
 - [**Stable Diffusion XL | ControlNet++: All-in-one ControlNet**](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) 🎁:
 
-#### Complementary Tools
+### ⚙️ Complementary Tools
 - [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) 🎁:
 - [**ForgeUI**](https://github.com/lllyasviel/stable-diffusion-webui-forge) 🎁:
 - [**Fooocus**](https://github.com/lllyasviel/Fooocus) 🎁:
@@ -46,89 +45,106 @@
 
 ---
 
+## 🎥 Video Generation
+### Online
+- [**KlingAI**](https://klingai.com/) 🎁💰:
+- [**HailuoAI**](https://hailuoai.video/) 🎁💰:
+- [**RunwayML**](https://runwayml.com/) 🎁💰:  
+- [**OpenAI Sora**](https://sora.com/) 💰: 
+
+### Local Base Models
+- [**Hunyuan Video**](https://huggingface.co/tencent/HunyuanVideo): Open-source video generator by Tencent.
+- [**Hunyuan Video (Quantized)**](https://huggingface.co/city96/HunyuanVideo-gguf):
+- [**LTX Video**](https://huggingface.co/Lightricks/LTX-Video):
+- [**LTX Video (Quantized)**](https://huggingface.co/city96/LTX-Video-gguf):
+- [**Mochi 1**](https://huggingface.co/genmo/mochi-1-preview):
+- [**Mochi 1 (Comfy Repackage)**](https://huggingface.co/Comfy-Org/mochi_preview_repackaged): 
+
+### Local Fine-Tuned Models
+- [**FastHunyuan**](https://huggingface.co/FastVideo/FastHunyuan): Open-source video generator by Tencent.
+
+### Addons
+
+### ⚙️ Complementary Tools
+- [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) 🎁:
+
+---
+
+## 🔊 Audio Generation
+### Online
+- [**ElevenLabs**](https://elevenlabs.io/): A state-of-the-art audio synthesis platform.
+
+### Local Base Models
+- [**F5-TTS**](https://huggingface.co/SWivid/F5-TTS):
+- [**MM-Audio**](https://github.com/hkchengrex/MMAudio):
+- [**StyleTTS2**](https://github.com/yl4579/StyleTTS2):
+- [**Fish Speech 1.5**](https://huggingface.co/fishaudio/fish-speech-1.5):
+
+### Local Fine-Tuned Models
+
+### Addons
+
+---
+
 ## 💬 Chat Bots
-- [**Claude.ai**](https://claude.ai/new): Next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
-- [**ChatGPT**](https://chatgpt.com/): An AI-powered conversational agent developed by OpenAI, designed to assist with a variety of tasks including writing, learning, and brainstorming.
-
-- [**Google AI Studio's Gemini 2.0 Flash**](https://aistudio.google.com/app/prompts/new_chat?instructions=lmsys-1121&model=gemini-2.0-flash-thinking-exp-1219): An experimental AI model by Google for advanced conversational interactions.
+### Online
+- [**Claude.ai**](https://claude.ai/new): Next generation AI assistant built by Anthropic.
+- [**ChatGPT**](https://chatgpt.com/): An AI-powered conversational agent developed by OpenAI.
+- [**Gemini by Google**](https://ai.google/products/gemini): A closed-source marvel for cutting-edge language understanding.
 - [**Mistral AI**](https://chat.mistral.ai/chat): Le Chat is a conversational entry point to interact with the various models from Mistral AI.
-
-- [**Meta AI**](https://www.meta.ai/): Use Meta AI assistant to get things done, create AI-generated images for free, and get answers to any of your questions.
-
-
-https://qwenlm.github.io/blog/qwq-32b-preview/
-https://qwenlm.github.io/blog/qwen2.5-coder-family/
-https://qwenlm.github.io/blog/qwen2.5/
-
-
+- [**Google AI Studio's Gemini**](https://aistudio.google.com/app/prompts/new_chat?instructions=lmsys-1121&model=gemini-2.0-flash-thinking-exp-1219): An experimental AI models by Google.
 - [**DeepSeek Chat**](https://chat.deepseek.com/): An AI chatbot designed for deep knowledge retrieval and conversational assistance.
-
-
-https://x.com/i/grok?focus=1
-
-
+- [**Meta AI**](https://www.meta.ai/): Use Meta AI assistant to get things done, create AI-generated images for free, and get answers to any of your questions.
+- [**xAI Grok 2**](https://x.com/i/grok?focus=1) 
 - [**glhf**](https://glhf.chat/chat/create): A platform that can run (almost) any open-source LLM.
 
+### Local Base Models
+- [**C4AI Command-R**](https://huggingface.co/CohereForAI/c4ai-command-r-08-2024): A research-focused AI tool for developers.
+- [**Llama 3.2 Vision Instruct**](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct): A multimodal LLM with vision and language capabilities.
 
 
+#### Local Fine-Tuned Models
+- [**Athene V2 Chat**](https://huggingface.co/Nexusflow/Athene-V2-Chat):
+- [**Athene V2 Chat (Ollama)**](https://ollama.com/library/athene-v2):
+
+
+### ⚙️ Complementary Tools
+- [**Ollama**](https://ollama.ai/):
+- [**Msty**](https://msty.app/):
+- [**LM Studio**](https://lmstudio.ai/): 
+- [**Anything LLM**](https://anythingllm.com/):
+
+
+https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
 https://huggingface.co/CohereForAI/c4ai-command-r-v01
 https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
-https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210
-https://huggingface.co/Qwen/QwQ-32B-Preview
+
 https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e
 
 ---
 
 ## 🖥️ Coding Assistants
-### Open Source
-- [**C4AI Command-R**](https://huggingface.co/CohereForAI/c4ai-command-r-08-2024): A research-focused AI tool for developers.
-- [**StyleTTS2**](https://github.com/yl4579/StyleTTS2): Advanced TTS for enhancing coding workflows.
-
-- [**Cursor**](https://www.cursor.com/): The ultimate AI-powered coding assistant for seamless development.
+### IDEs
 - [**Codeium Windsurf**](https://codeium.com/windsurf): An AI assistant that integrates directly into your IDE.
-https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
+- [**Cursor**](https://www.cursor.com/): The ultimate AI-powered coding assistant for seamless development.
 
----
-
-
-## 🎥 Video Generation
-### Open Source
-- [**FastHunyuan**](https://huggingface.co/FastVideo/FastHunyuan): Open-source video generator by Tencent.
-- [**Mochi 1**](https://huggingface.co/genmo/mochi-1-preview): Create dynamic and creative video content easily.
-
-### Closed Source
-- [**RunwayML**](https://runwayml.com/): A popular tool for video editing and generation.
-- [**DeepMind VEO 2**](https://deepmind.google/technologies/veo/veo-2/): Cutting-edge video synthesis platform.
-
----
-
-## 🔊 Audio Generation
-### Open Source
-- [**F5-TTS**](https://huggingface.co/SWivid/F5-TTS): A text-to-speech model with advanced capabilities.
-- [**MM-Audio**](https://github.com/hkchengrex/MMAudio): An open-source tool for audio generation and manipulation.
-
-### Closed Source
-- [**ElevenLabs**](https://elevenlabs.io/): A state-of-the-art audio synthesis platform.
+### VSCode Extentions
+- [**Kodu AI**](https://www.kodu.ai/): AI-driven audio creation for immersive experiences.
 - [**Kodu AI**](https://www.kodu.ai/): AI-driven audio creation for immersive experiences.
 
+### Online Models
+
+### Local Models
+https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210
+https://huggingface.co/Qwen/QwQ-32B-Preview
 ---
 
-## 🏡 Local and Open-Source LLMs
-### Open Source
-- [**Llama 3.2 Vision Instruct**](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct): A multimodal LLM with vision and language capabilities.
-- [**FLUX.1**](https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev): A robust LLM designed for diverse use cases.
-
-### Closed Source
-- [**Gemini by Google**](https://ai.google/products/gemini): A closed-source marvel for cutting-edge language understanding.
-- [**LM Studio**](https://lmarena.ai/): A powerful closed-source language model for professionals.
-
----
-
-## 🧠 Tools
-
-- [**Ollama**](https://ollama.ai/): A sleek chatbot platform built for enhanced conversational experiences.
-- [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
+### ⚙️ Awesome Tools
 - [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
+- [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
+
+---
+## 🌐 Cool Website
 - [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
 - [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
 - [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
@@ -139,8 +155,7 @@ https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
 
 ## 👀 To Watch in 2025
 
-- [**Veo 2**](https://deepmind.google/technologies/veo/veo-2/): Google's State-of-the-art video generation model.
-
+- [**DeepMind VEO 2**](https://deepmind.google/technologies/veo/veo-2/) ❓: Most Anticipated in 2025.
 
 
 
