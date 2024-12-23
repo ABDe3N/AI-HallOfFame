@@ -2,6 +2,9 @@
 ## <p align="center">Your Gateway to the World of AI Tools!</p> 
 
 
+#### <p align="center">🎁 = Free | 🎁💰 = Paid with Free Offering | 💰 = Paid</p> 
+
+
 ## 🎨 Image Generation
 ### Online
 - [**Mistral AI with FLUX**](https://chat.mistral.ai/chat) 🎁:
@@ -26,10 +29,20 @@
 - [**FLUX.1 Dev | PixelWave_03**](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-dev_03) 🎁:
 - [**FLUX.1 Schnell | PixelWave_03**](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_03) 🎁:
 - [**FLUX.1 Schnell | Shuttle 3.1 Aesthetic**](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic) 🎁:
-- [**Stable Diffusion XL | Juggernaut-XI v11**](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) 🎁:
-- [**Stable Diffusion XL | RealVisXL_V5.0**](https://huggingface.co/SG161222/RealVisXL_V5.0) 🎁:
+- [**Stable Diffusion XL | Juggernaut-XI V11**](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) 🎁:
+- [**Stable Diffusion XL | RealVisXL V5.0**](https://huggingface.co/SG161222/RealVisXL_V5.0) 🎁:
+
+#### Addons
+- [**FLUX.1 Dev | Fill**](https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev) 🎁:
+- [**FLUX.1 Dev | Redux**](https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev) 🎁:
+- [**FLUX.1 Dev | ControlNet Union Pro**](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) 🎁:
+- [**Stable Diffusion XL | ControlNet++: All-in-one ControlNet**](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) 🎁:
 
 #### Complementary Tools
+- [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) 🎁:
+- [**ForgeUI**](https://github.com/lllyasviel/stable-diffusion-webui-forge) 🎁:
+- [**Fooocus**](https://github.com/lllyasviel/Fooocus) 🎁:
+- [**InvokeAI**](https://github.com/invoke-ai/InvokeAI) 🎁:
 
 ---
 
