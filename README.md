@@ -2,18 +2,34 @@
 ## <p align="center">Your Gateway to the World of AI Tools!</p> 
 
 
-### 🎨 Image Generation
-#### Online
-- 🎁 [**Mistral AI with FLUX**](https://chat.mistral.ai/chat):
-- 🎁 [**xAi Grok 2 Aurora**](https://x.com/i/grok?focus=1):
-- 🎁 [**Gemeni Imagen 3**](https://gemini.google.com/app):
-- 🎁💰[**Recraft 3**](https://www.recraft.ai/):
-- 🎁💰[**Ideogram 2**](https://ideogram.ai/t/explore):
-- 💰[**MidJourney 6.1**](https://www.midjourney.com/): The famous closed-source platform for breathtaking art.
+## 🎨 Image Generation
+### Online
+- [**Mistral AI with FLUX**](https://chat.mistral.ai/chat) 🎁:
+- [**xAi Grok 2 Aurora**](https://x.com/i/grok?focus=1) 🎁:
+- [**Gemeni Imagen 3**](https://gemini.google.com/app) 🎁:
+- [**Recraft 3**](https://www.recraft.ai/) 🎁💰:
+- [**Ideogram 2**](https://ideogram.ai/t/explore) 🎁💰:
+- [**MidJourney 6.1**](https://www.midjourney.com/) 💰: The famous closed-source platform for breathtaking art.
 
-#### Local 
-- [**Stable Diffusion 3.5 Medium**](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium): A powerful open-source model for creating stunning visuals.
-- [**Stable Diffusion 3.5 Large**](https://huggingface.co/stabilityai/stable-diffusion-3.5-large): Enhanced version for high-fidelity image generation.
+### Local
+#### Base Models
+- [**FLUX.1 Dev**](https://huggingface.co/black-forest-labs/FLUX.1-dev) 🎁:
+- [**FLUX.1 Dev (Quantized)**](https://huggingface.co/city96/FLUX.1-dev-gguf) 🎁:
+- [**FLUX.1 Schnell**](https://huggingface.co/black-forest-labs/FLUX.1-schnell) 🎁:
+- [**FLUX.1 Schnell (Quantized)**](https://huggingface.co/city96/FLUX.1-schnell-gguf) 🎁:
+- [**Stable Diffusion 3.5 Large**](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) 🎁:
+- [**Stable Diffusion 3.5 Large (Quantized)**](https://huggingface.co/city96/stable-diffusion-3.5-large-gguf) 🎁:
+- [**Stable Diffusion 3.5 Medium**](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium) 🎁:
+- [**Stable Diffusion 3.5 Medium (Quantized)**](https://huggingface.co/city96/stable-diffusion-3.5-medium-gguf) 🎁:
+  
+#### Fine-Tuned Models
+- [**FLUX.1 Dev | PixelWave_03**](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-dev_03) 🎁:
+- [**FLUX.1 Schnell | PixelWave_03**](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_03) 🎁:
+- [**FLUX.1 Schnell | Shuttle 3.1 Aesthetic**](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic) 🎁:
+- [**Stable Diffusion XL | Juggernaut-XI v11**](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) 🎁:
+- [**Stable Diffusion XL | RealVisXL_V5.0**](https://huggingface.co/SG161222/RealVisXL_V5.0) 🎁:
+
+#### Complementary Tools
 
 ---
 
