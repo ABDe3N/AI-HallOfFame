@@ -1,12 +1,10 @@
 # <p align="center">🌟 AI Hall of Fame 🌟</p>
 ## <p align="center">Your Gateway to the World of AI Tools!</p> 
 
-
 #### <p align="center">🎁 = Free | 🎁💰 = Paid with Free Offering | 💰 = Paid</p> 
 
-
-## 🎨 Image Generation
-### Online Models
+### 🎨 Image Generation
+#### Online Models
 - [**Mistral AI with FLUX**](https://chat.mistral.ai/chat) 🎁:
 - [**xAi Grok 2 Aurora**](https://x.com/i/grok?focus=1) 🎁:
 - [**Gemeni Imagen 3**](https://gemini.google.com/app) 🎁:
@@ -14,7 +12,7 @@
 - [**Ideogram 2**](https://ideogram.ai/t/explore) 🎁💰:
 - [**MidJourney 6.1**](https://www.midjourney.com/) 💰: The famous closed-source platform for breathtaking art.
 
-### Local Models
+#### Local Models
 - [**FLUX.1 Dev**](https://huggingface.co/black-forest-labs/FLUX.1-dev) 🎁:
 - [**FLUX.1 Dev (Quantized)**](https://huggingface.co/city96/FLUX.1-dev-gguf) 🎁:
 - [**FLUX.1 Dev | PixelWave_03 (Finetuned)**](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-dev_03) 🎁:
@@ -29,13 +27,13 @@
 - [**Stable Diffusion XL | Juggernaut-XI V11 (Finetuned)**](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) 🎁:
 - [**Stable Diffusion XL | RealVisXL V5.0 (Finetuned)**](https://huggingface.co/SG161222/RealVisXL_V5.0) 🎁:
 
-### Addons
+#### Addons
 - [**FLUX.1 Dev | Fill**](https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev) 🎁:
 - [**FLUX.1 Dev | Redux**](https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev) 🎁:
 - [**FLUX.1 Dev | ControlNet Union Pro**](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) 🎁:
 - [**Stable Diffusion XL | ControlNet++: All-in-one ControlNet**](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) 🎁:
 
-### ⚙️ Complementary Tools
+#### Complementary Tools
 - [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) 🎁:
 - [**ForgeUI**](https://github.com/lllyasviel/stable-diffusion-webui-forge) 🎁:
 - [**Fooocus**](https://github.com/lllyasviel/Fooocus) 🎁:
@@ -43,14 +41,14 @@
 
 ---
 
-## 🎥 Video Generation
-### Online Models
+### 🎥 Video Generation
+#### Online Models
 - [**KlingAI**](https://klingai.com/) 🎁💰:
 - [**HailuoAI**](https://hailuoai.video/) 🎁💰:
 - [**RunwayML**](https://runwayml.com/) 🎁💰:  
 - [**OpenAI Sora**](https://sora.com/) 💰: 
 
-### Local Models
+#### Local Models
 - [**Hunyuan Video**](https://huggingface.co/tencent/HunyuanVideo): Open-source video generator by Tencent.
 - [**Hunyuan Video (Quantized)**](https://huggingface.co/city96/HunyuanVideo-gguf):
 - [**FastHunyuan (Finetuned)**](https://huggingface.co/FastVideo/FastHunyuan): Open-source video generator by Tencent.
@@ -59,29 +57,29 @@
 - [**Mochi 1**](https://huggingface.co/genmo/mochi-1-preview):
 - [**Mochi 1 (Comfy Repackage)**](https://huggingface.co/Comfy-Org/mochi_preview_repackaged): 
 
-### Addons
+#### Addons
 
-### ⚙️ Complementary Tools
+#### Complementary Tools
 - [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) 🎁:
 
 ---
 
-## 🔊 Audio Generation
-### Online Models
+### 🔊 Audio Generation
+#### Online Models
 - [**ElevenLabs**](https://elevenlabs.io/): A state-of-the-art audio synthesis platform.
 
-### Local Models
+#### Local Models
 - [**F5-TTS**](https://huggingface.co/SWivid/F5-TTS):
 - [**MM-Audio**](https://github.com/hkchengrex/MMAudio):
 - [**StyleTTS2**](https://github.com/yl4579/StyleTTS2):
 - [**Fish Speech 1.5**](https://huggingface.co/fishaudio/fish-speech-1.5):
 
-### Addons
+#### Addons
 
 ---
 
-## 💬 Chat Bots
-### Online Models
+### 💬 Chat Bots
+#### Online Models
 - [**Claude.ai**](https://claude.ai/new): Next generation AI assistant built by Anthropic.
 - [**ChatGPT**](https://chatgpt.com/): An AI-powered conversational agent developed by OpenAI.
 - [**Gemini by Google**](https://ai.google/products/gemini): A closed-source marvel for cutting-edge language understanding.
@@ -92,14 +90,13 @@
 - [**xAI Grok 2**](https://x.com/i/grok?focus=1) 
 - [**glhf**](https://glhf.chat/chat/create): A platform that can run (almost) any open-source LLM.
 
-### Local Models
+#### Local Models
 - [**C4AI Command-R**](https://huggingface.co/CohereForAI/c4ai-command-r-08-2024): A research-focused AI tool for developers.
 - [**Llama 3.2 Vision Instruct**](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct): A multimodal LLM with vision and language capabilities.
 - [**Qwen 2.5 | Athene V2 Chat (Finetuned)**](https://huggingface.co/Nexusflow/Athene-V2-Chat):
 - [**Qwen 2.5 | Athene V2 Chat (Finetuned)(Ollama)**](https://ollama.com/library/athene-v2):
 
-
-### ⚙️ Complementary Tools
+#### Complementary Tools
 - [**Ollama**](https://ollama.ai/):
 - [**Msty**](https://msty.app/):
 - [**LM Studio**](https://lmstudio.ai/): 
@@ -107,27 +104,34 @@
 
 ---
 
-## 🖥️ Coding Assistants
-### IDEs
+### 🖥️ Coding Assistants
+#### IDEs
 - [**Windsurf**](https://codeium.com/windsurf): An AI assistant that integrates directly into your IDE.
 - [**Cursor**](https://www.cursor.com/): The ultimate AI-powered coding assistant for seamless development.
 
-### VSCode Extentions
+#### VSCode Extentions
 - [**Cline**](https://github.com/cline/cline?tab=readme-ov-file): AI-driven audio creation for immersive experiences.
 - [**Kodu AI**](https://www.kodu.ai/): AI-driven audio creation for immersive experiences.
 
-### Online Models
+#### Online Models
+- [**Claude.ai**](https://claude.ai/new): Next generation AI assistant built by Anthropic.
+- [**ChatGPT**](https://chatgpt.com/): An AI-powered conversational agent developed by OpenAI.
+- [**DeepSeek Chat**](https://chat.deepseek.com/): An AI chatbot designed for deep knowledge retrieval and conversational assistance.
+- [**Mistral Codestral API**](https://console.mistral.ai/codestral):
 
-### Local Models
+#### Local Models
+- [**Qwen with Questions**](https://huggingface.co/Qwen/QwQ-32B-Preview):
+- [**Qwen with Questions (Ollama)**](https://ollama.com/library/qwq):
+- [**Qwen 2.5 Coder (Ollama)**](https://ollama.com/library/qwen2.5-coder):
 
 ---
 
-## ⚙️ Cool Tools
+### ⚙️ Cool Tools
 - [**Warp.dev**](https://www.warp.dev/): A reimagined terminal with AI support to boost productivity.
 - [**Jupyter**](https://jupyter.org/): The go-to notebook for interactive Python coding and data analysis.
 
 ---
-## 🌐 Cool Website
+### 🌐 Cool Website
 - [**Google Colab**](https://colab.research.google.com/): A cloud-based Jupyter notebook environment to run AI experiments with zero setup.
 - [**NotebookLM by Google**](https://notebooklm.google/): An experimental AI-powered research notebook.
 - [**Perplexity**](https://www.perplexity.ai/): An AI-powered search engine that makes finding answers faster and smarter.
@@ -136,7 +140,7 @@
 
 ---
 
-## 👀 To Watch in 2025
+### 👀 To Watch in 2025
 
 - [**DeepMind VEO 2**](https://deepmind.google/technologies/veo/veo-2/) ❓: Most Anticipated in 2025.
 
@@ -155,11 +159,9 @@ https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
 https://ollama.com/library/llama3.3
 https://ollama.com/library/llama3.2-vision
 https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210
-https://huggingface.co/Qwen/QwQ-32B-Preview
-https://ollama.com/library/qwq
+
 https://ollama.com/library/aya-expanse
 https://ollama.com/library/nemotron
-https://ollama.com/library/qwen2.5-coder
 https://ollama.com/library/qwen2.5
 https://ollama.com/library/mistral-small
 https://ollama.com/library/mistral-nemo
